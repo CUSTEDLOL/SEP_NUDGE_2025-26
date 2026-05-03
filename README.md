@@ -1,6 +1,6 @@
 # Team NUDGE — SEP Update Video Links
 
-This README contains the YouTube video links for the updates from **Team NUDGE** for **SEP by Innovation Lab at CCDS, NDU**.
+This README contains the YouTube video links for the updates from **Team NUDGE** for **SEP by Innovation Lab at CCDS, NTU**.
 
 These updates cover the period from **October 2025 to April 2026**.
 
@@ -21,5 +21,5 @@ Please note that the links below are intended to serve as the official record of
 ## Notes
 
 - These videos document the progress, milestones, and updates from Team NUDGE.
-- The updates are part of the SEP journey under Innovation Lab at CCDS, NDU.
+- The updates are part of the SEP journey under Innovation Lab at CCDS, NTU.
 - Please ensure all YouTube links are accessible before final submission.
